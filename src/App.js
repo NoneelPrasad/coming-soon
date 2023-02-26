@@ -21,6 +21,9 @@ const App = () => {
           className="flip-clock"
           to={new Date("2023-7-1").getTime()}
         />
+        <a href="https://github.com/NoneelPrasad/coming-soon" target="blank">
+          <button className="btn">View Code</button>
+        </a>
       </div>
     </section>
   );

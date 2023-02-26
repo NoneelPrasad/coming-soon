@@ -75,8 +75,8 @@ body {
 .btn {
   width: 180px;
   height: 64px;
-  background: #fff;
-  color: #000;
+  background: #000;
+  color: #fff;
   font-size: 1rem;
   font-family: "Poppins";
   text-transform: uppercase;
